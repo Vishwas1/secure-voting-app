@@ -1,11 +1,11 @@
-# E-voting 
+# NextGen Government Election Platform  
 
-> A VAB project
+> Based on Blockchain Technology
+
 ## Table of Contents
 
 <!-- toc -->
 
-- [Overview](#user-content-overview)
 - [Problem](#user-content-problem)
 - [Solution](#user-content-solution)
 - [Technology](#user-content-technology)
@@ -16,9 +16,7 @@
 
 <!-- tocstop -->
 
-## Overview
 
-We have come up with a NEXT Generation BlockChain Election Platform 
 
 
 ## Technology
