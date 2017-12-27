@@ -16,7 +16,21 @@
 
 <!-- tocstop -->
 
+## Problem
 
+ Today’s election process requires heavy security, lacks transparency, polls are not updated in real-time, they are definitely not tamper proof and in some extreme cases, EVM machines are often accused of being hacked, in addition to all this, it is an extremely time consuming process where citizens are required to stand in long lines in the heat, cold, sun and rain in order to be able to cast their vote.
+
+## Solution
+Using blockchain technology we have solved this problem to ensure that the citizen voting process is :
+
+- Secure - Using End to End Encryption and Tracking and Biometrics.
+- Future Proof - Will be the foundation of all future voting processes. 
+- Tamper Proof/Hack Proof - Using the Blockchain enabled ledger  
+- Mobile - Can be ported to all types of hardware devices.
+- Transparent - Using the Distributed Ledger Technology
+- Quick - Fraction of the time required to cast a vote
+- Empower the citizens to a seamless voting experience from "Booth to Result" in realtime.
+- Flexible - Can be quickly customized to Suit all different requirements, from State elections to internal assembly elections to even on a national level.
 
 
 ## Technology
@@ -76,17 +90,6 @@
  * 
  */
 ```
-
-## Problem
-
- Everything in this world is available online but even now we have to go to a polling center and wait in a queue for 3–4 hours to cast our vote?
-It’s weird. Isn’t it?
-
-Majority thinks its the security .
-But what if Blockchain could fundamentally change that?
-
-## Solution
-Using Ethereum as block chain we tried to solve this problem. So we have an App where the govt entity can register themselves . 
 
 ![alt text](https://image.prntscr.com/image/22vMOGinRs_9i3QuQmRHKg.png "Register A Govt entity for polling")
 
